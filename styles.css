@@ -1,0 +1,23 @@
+body{
+  background: linear-gradient(black 90%,red);
+
+}
+h1{
+  font-size: 6rem;
+  text-align: center;
+  padding-top: .5%;
+  color:green;
+  font-family: cursive;
+  font-weight: bold;
+  margin-top: 0;
+}
+.row{
+  color:green;
+  text-align: center;
+  padding: 5%  ;
+}
+.container{
+  background: linear-gradient(black,red);
+  padding-top: 20px;
+  margin-top: 20px;
+}
